@@ -1,2 +1,7 @@
-# data-analyst-dashboard
-Interactive Data Analyst Dashboard for visualizing sales, customer, and business performance metrics using data analytics and reporting tools.
+# Excel Sales Dashboard
+
+
+# Project overview
+
+An interactive Excel Dashboard designed to analyze sales performance using Pivot Tables, Charts, KPIs, and Slicers.
+
