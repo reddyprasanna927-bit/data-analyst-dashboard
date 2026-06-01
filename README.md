@@ -18,4 +18,7 @@ An interactive Excel Dashboard designed to analyze sales performance using Pivot
 -Which city/region has the highest sales?
 -Who is the top-performing salesperson?
 -How are sales trending over time?
--How did you calculate Total Revenue?
+
+
+# Dashboard interaction 
+= <a href=https://github.com/reddyprasanna927-bit/data-analyst-dashboard/blob/main/dashboard.png>view Dashboard</a>
