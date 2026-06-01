@@ -22,3 +22,11 @@ An interactive Excel Dashboard designed to analyze sales performance using Pivot
 
 # Dashboard interaction 
 = <a href=https://github.com/reddyprasanna927-bit/data-analyst-dashboard/blob/main/dashboard.png>view Dashboard</a>
+
+
+# process
+
+-Collected and cleaned sales data to ensure accuracy and consistency.
+-Analyzed the data using Pivot Tables and calculated key KPIs.
+-Created interactive charts, KPI cards, and slicers for visualization.
+-Developed a dynamic dashboard to provide actionable business insights.
