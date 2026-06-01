@@ -9,3 +9,13 @@ An interactive Excel Dashboard designed to analyze sales performance using Pivot
 # dataaet used
 - <a href=https://github.com/reddyprasanna927-bit/data-analyst-dashboard/blob/main/Excel%20DashBoard%20Reddy%20.xlsxdataset/a>
 
+#( (KPI) Questions
+-What is the Total Sales Revenue?
+-How many Units were Sold?
+-What is the Average Sales per Transaction?
+-What is the Monthly Sales Growth (%)?
+-Which month generated the highest sales?
+-Which city/region has the highest sales?
+-Who is the top-performing salesperson?
+-How are sales trending over time?
+-How did you calculate Total Revenue?
